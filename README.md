@@ -5,10 +5,10 @@ Dynamic and business-oriented Data Analyst based in Mumbai, specializing in fina
 ---
 
 ## 🛠️ Tech Stack & Domain Expertise
-* **Databases & Querying:** Microsoft SQL Server, T-SQL (CTEs, Window Functions, Views)
-* **Business Intelligence:** Power BI Desktop, DAX Modeling, Data Warehousing, ETL Pipelines
-* **Predictive Analytics:** Python (Pandas, NumPy, Scikit-Learn, Hyperparameter Tuning)
-* **Domain Focus:** BFSI, Customer Attrition Analytics, Credit Underwriting Frameworks
+* **Databases & Querying:** Microsoft SQL Server, SQLite, T-SQL (CTEs, Window Functions, Views, Aggregations)
+* **Business Intelligence:** Power BI Desktop, Power Query, DAX Modeling, Star Schemas, ETL Pipelines
+* **Predictive Analytics:** Python (Pandas, NumPy, Scikit-Learn, yfinance API, Matplotlib)
+* **Domain Focus:** BFSI, Customer Attrition Analytics, Credit Underwriting, Wealth Management, Equity Markets
 
 ---
 
@@ -24,7 +24,23 @@ Dynamic and business-oriented Data Analyst based in Mumbai, specializing in fina
 * **Tech Stack:** Python, Pandas, Scikit-Learn, Random Forest
 * **Core Impact:** Engineered a predictive classification pipeline utilizing one-hot encoding and balanced hyperparameter weights, optimizing the historical default catch-rate (Recall) from 34% to 69%.
 
+### 📈 [3. BFSI Wealth Management Sales Tracker](https://github.com/Akshaymest/bfsi-wealth-sales-tracker)
+* **Objective:** Diagnose localized sales metrics and systematic investment plan (SIP) cancellation anomalies across regional branches.
+* **Tech Stack:** Power BI Desktop, Power Query, DAX
+* **Core Impact:** Designed an optimized Star Schema relational model connecting core transaction facts to master lookup dimensions, deploying advanced `CALCULATE` and `DIVIDE` metrics to isolate YoY trends and branch anomalies.
+
+### 🦅 [4. Equity Portfolio Performance & Benchmark Analyzer](https://github.com/Akshaymest/equity-portfolio-analyzer)
+* **Objective:** Build an automated system to calculate real-time portfolio returns and individual equity valuations against major market indices.
+* **Tech Stack:** Python 3, Pandas, yfinance API, Matplotlib
+* **Core Impact:** Automated cost-basis calculations across financial DataFrames, integrated live web scrapes via the `yfinance` API to fetch active closing prices, and generated clean performance charts.
+
+### 🗄️ [5. Relational Compliance Risk & Audit Monitor](https://github.com/Akshaymest/compliance-risk-audit-monitor)
+* **Objective:** Engineer an operational database logging architecture to capture internal compliance exception lifecycles and unresolved risk parameters.
+* **Tech Stack:** SQLite Engine, Relational SQL, Data Aggregations
+* **Core Impact:** Constructed multi-layered analytical data queries utilizing strict conditional filtering and multi-field aggregations (`COUNT`, `AVG`) to track corporate risk resolution cycle times by business segments.
+
 ---
 
 ## 📫 Connect with Me
+* 💼 **LinkedIn:** [Click Here to View My LinkedIn Profile]([www.linkedin.com/in/akshay-mest-3915ba120])
 * 📍 **Location:** Mumbai, India
