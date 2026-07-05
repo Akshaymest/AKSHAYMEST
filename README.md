@@ -7,6 +7,7 @@ Dynamic and business-oriented Data Analyst based in Mumbai, specializing in fina
 ## 🛠️ Tech Stack & Domain Expertise
 * **Databases & Querying:** Microsoft SQL Server, SQLite, T-SQL (CTEs, Window Functions, Views, Aggregations)
 * **Business Intelligence:** Power BI Desktop, Power Query, DAX Modeling, Star Schemas, ETL Pipelines
+* **Automation & Spreadsheets:** Advanced Excel, VBA Macros, Object Modeling, Conditional Looping structures
 * **Predictive Analytics:** Python (Pandas, NumPy, Scikit-Learn, yfinance API, Matplotlib)
 * **Domain Focus:** BFSI, Customer Attrition Analytics, Credit Underwriting, Wealth Management, Equity Markets
 
@@ -38,6 +39,11 @@ Dynamic and business-oriented Data Analyst based in Mumbai, specializing in fina
 * **Objective:** Engineer an operational database logging architecture to capture internal compliance exception lifecycles and unresolved risk parameters.
 * **Tech Stack:** SQLite Engine, Relational SQL, Data Aggregations
 * **Core Impact:** Constructed multi-layered analytical data queries utilizing strict conditional filtering and multi-field aggregations (`COUNT`, `AVG`) to track corporate risk resolution cycle times by business segments.
+
+### ⚙️ [6. End-to-End Financial Compliance & Reporting Automation Pipeline](https://github.com/Akshaymest/financial-compliance-automation)
+* **Objective:** Automate messy monthly ledger intakes, quarantine unmapped entity exceptions, and visualize risk exposure for audit reporting.
+* **Tech Stack:** Advanced Excel, XLOOKUP, VBA Macros, Pivot Table Dashboards
+* **Core Impact:** Programmed a dynamic VBA automation module using `End(xlUp)` boundary tracking and double conditional looping structures to fix data-completeness gaps and auto-highlight registry anomalies. Generated a multi-dimensional Pivot Matrix that isolated a critical 100% risk exposure concentration within the Forex Outward sector for corporate stakeholders.
 
 ---
 
